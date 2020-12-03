@@ -13,4 +13,4 @@ def is_odd(n):
 for x in range(20):
     print(x, "is",
     "odd" if is_odd(x)
-    else "even")   
+    else "even")
