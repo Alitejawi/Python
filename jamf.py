@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-__author__ = "Ali Al-Itejawi"
+__author__ = "Shane Young"
 __version__ = "1.1"
-__email__ = "ali@al-itejawi.com"
+__email__ = "thedzy@hotmail.com"
 
 import requests
 import urllib3
