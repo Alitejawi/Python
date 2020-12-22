@@ -3,7 +3,7 @@
 import random
 
 min = 1
-max = 30
+max = 100
 
 ran = random.randint(min, max)
 
